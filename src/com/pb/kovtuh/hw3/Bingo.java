@@ -13,9 +13,9 @@ public class Bingo {
         System.out.println("Надоело отгадывать, введите число вне диапазона от 0 до 100");
         System.out.println("Введите число:");
         // read user number
-        int number;
+       // int number;
         Scanner in = new Scanner(System.in);
-        number = in.nextInt();
+        int number = in.nextInt();
 
         for (int c=1;;c++) {
             if (0 <= number && number <= 100 && number > x) {
