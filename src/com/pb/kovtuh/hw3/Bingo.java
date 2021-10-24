@@ -10,7 +10,7 @@ public class Bingo {
         int x=minr+(int)(Math.random()*((maxr-minr)+1));
         //int x =11 ;
         System.out.println("Отгадайте загаданное целое число от 0 до 100");
-        System.out.println("Надоело отгадывать, введите число вне диапазона от 0 до 100"+ x);
+        System.out.println("Надоело отгадывать, введите число вне диапазона от 0 до 100");
         System.out.println("Введите число:");
         // read user number
         int number;
