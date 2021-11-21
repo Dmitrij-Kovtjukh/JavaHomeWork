@@ -1,4 +1,4 @@
-package com.pb.kovtuh.hw8.hw8_1;
+package com.pb.Test.hw8_1;
 
 import java.util.Scanner;
 
